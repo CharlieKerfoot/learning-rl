@@ -1,0 +1,10 @@
+[project]
+name = "tut"
+version = "0.1.0"
+description = "Fi"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gymnasium>=1.2.2",
+    "pygame-ce>=2.5.6",
+]

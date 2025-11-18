@@ -1,0 +1,12 @@
+[project]
+name = "1-blackjack-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gymnasium>=1.2.2",
+    "matplotlib>=3.10.7",
+    "pygame-ce>=2.5.6",
+    "tqdm>=4.67.1",
+]
